@@ -4,3 +4,9 @@ Custodial wallet Pros and cons
 
 * Easy to use
 * Can help if you are a beginner for crypto usage(wallet)
+
+- Cons
+
+* Exchange can rug pull your asset
+* Can be shutdown
+* Can freez your asset
