@@ -2,6 +2,8 @@
 
 This repository contains theory notes, quizzes, and research related to wallet security in Web3.
 
+Its helpful for both Developers and protocols
+
 ---
 
 ## 📘 Contents
