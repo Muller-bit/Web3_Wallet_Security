@@ -10,3 +10,4 @@ Custodial wallet Pros and cons
 * Exchange can rug pull your asset
 * Can be shutdown
 * Can freez your asset
+* Not your keys not your crypto
