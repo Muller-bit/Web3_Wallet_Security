@@ -1,5 +1,7 @@
 Custodial wallet Pros and cons
 
+Example : Coinbase and Kraken wallet
+
 - pros
 
 * Easy to use
