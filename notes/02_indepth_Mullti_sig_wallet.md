@@ -11,3 +11,7 @@
 - Instead, a multi-sig wallet is a smart contract deployed on-chain. This smart contract acts as a secure vault, governing how transactions are authorized and executed.
 
 The defining characteristic of a multi-sig wallet is its requirement for multiple private keys (signers) to authorize a transaction before it can be broadcast to the network.
+
+This is a fundamental departure from standard EOAs, where a single compromised private key grants an attacker full control over the associated funds.
+
+A key feature of multi-sig wallets is their customizability,
