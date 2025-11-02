@@ -36,4 +36,4 @@ Example : Coinbase and Kraken wallet
 
 - An indispensable overview to Mastering Crypto Security: An In-Depth Guide to Multi-Signature Wallets - Delve into multi-sig wallets, smart contracts demanding multiple private keys (X-of-Y) for transaction approval, drastically enhancing on-chain security.
 
-- a multi-sig wallet
+- a multi-sig wallet is a smart contract that governs txn .
