@@ -19,3 +19,5 @@ A key feature of multi-sig wallets is their customizability,often referred to as
 Y: This represents the total number of authorized signers (i.e., distinct private keys or wallets) associated with the multi-sig.
 
 For example, you might designate 5 trusted individuals or devices as signers.
+
+- X: This defines the minimum number of those Y signers that must approve a transaction before the smart contract will execute it.
