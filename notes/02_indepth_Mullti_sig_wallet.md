@@ -2,4 +2,4 @@
 
 - When it comes to safeguarding your cryptocurrency assets, especially for developers managing significant funds or the ownership of smart contracts, standard wallet solutions often fall short.This lesson delves into multi-signature (multi-sig) wallets,an advanced and highly recommended methodology for robust cryptocurrency storage.
 
-- Personally, many consider multi-sigs my absolute favorite approach due to the unparalleled security and control they offer.
+- Personally, many consider multi-sigs my absolute favorite approach due to the unparalleled security and control they offer. While simpler browser or hardware wallets have their place, multi-sig wallets
