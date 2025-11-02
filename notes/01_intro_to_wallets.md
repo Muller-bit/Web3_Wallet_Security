@@ -21,3 +21,5 @@ Example : Coinbase and Kraken wallet
 --HOT WALLET
 
 -Connected to the onternet (online)
+
+--COLD WALLET
