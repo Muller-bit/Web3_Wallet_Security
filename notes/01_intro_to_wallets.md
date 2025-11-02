@@ -18,9 +18,11 @@ Example : Coinbase and Kraken wallet
 
 - A comprehensive guide to Navigating Web3 Wallets: Browser and Hardware Options for Everyday Use - Compare browser wallets (e.g., MetaMask) for daily "small monies" with secure hardware wallets (e.g., Trezor) for varied Web3 needs. Understand risk assessment, essential.
 
+- Browser(small assets) and Hardware Wallets(large sum amount of money)
+
 --HOT WALLET
 
--Connected to the onternet (online)
+- Connected to the onternet (online)
 
 --COLD WALLET
 
