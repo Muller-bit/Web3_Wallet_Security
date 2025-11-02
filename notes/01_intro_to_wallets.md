@@ -24,7 +24,7 @@ Example : Coinbase and Kraken wallet
 
 --HOT WALLET
 
-- - Example: Metamask ,Trust wallet
+- - Example: Metamask ,Trust wallet ,Rabby
 
 - Connected to the onternet (online)
 
