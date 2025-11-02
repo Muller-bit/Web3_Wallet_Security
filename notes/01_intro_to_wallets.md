@@ -24,8 +24,9 @@ Example : Coinbase and Kraken wallet
 
 --HOT WALLET
 
+- - Example: Metamask ,
 - Connected to the onternet (online)
 
---COLD WALLET
+--COLD WALLET /AIR GAPPED (they have gap from the internet) Ex: -physical device
 
 - Are not connected to the internet (Offline)
