@@ -26,7 +26,7 @@ Example : Coinbase and Kraken wallet
 
 - Example: Metamask ,Trust wallet ,Rabby , Frame , Rainbow , MyEtherWallet
 
-- Connected to the onternet (online)
+- Connected to the internet (online)
 
 ### COLD WALLET /AIR GAPPED (they have gap from the internet) Ex: -physical device
 
