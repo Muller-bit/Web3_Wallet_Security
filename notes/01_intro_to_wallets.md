@@ -23,3 +23,5 @@ Example : Coinbase and Kraken wallet
 -Connected to the onternet (online)
 
 --COLD WALLET
+
+- Are not connected to the internet (Offline)
