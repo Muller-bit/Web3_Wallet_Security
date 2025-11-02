@@ -21,3 +21,5 @@ Y: This represents the total number of authorized signers (i.e., distinct privat
 For example, you might designate 5 trusted individuals or devices as signers.
 
 - X: This defines the minimum number of those Y signers that must approve a transaction before the smart contract will execute it.
+
+- For instance, in a "3-of-5" wallet, at least 3 out of the 5 designated signers must provide their cryptographic signature.
