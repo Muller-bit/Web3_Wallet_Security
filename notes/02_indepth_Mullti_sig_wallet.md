@@ -17,3 +17,5 @@ This is a fundamental departure from standard EOAs, where a single compromised p
 A key feature of multi-sig wallets is their customizability,often referred to as an "X-of-Y" configuration:
 
 Y: This represents the total number of authorized signers (i.e., distinct private keys or wallets) associated with the multi-sig.
+
+For example, you might designate 5 trusted individuals or devices as signers.
