@@ -7,3 +7,7 @@
 ### Understanding the Mechanics: What Exactly is a Multi-Sig Wallet?
 
 - At its core, a multi-signature wallet is not a traditional wallet in the sense of an Externally Owned Account (EOA) controlled by a single private key.
+
+- Instead, a multi-sig wallet is a smart contract deployed on-chain. This smart contract acts as a secure vault, governing how transactions are authorized and executed.
+
+The defining characteristic of a multi-sig wallet is its requirement for multiple private keys (signers) to authorize a transaction before it can be broadcast to the network.
