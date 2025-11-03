@@ -45,3 +45,5 @@ For example, you might designate 5 trusted individuals or devices as signers.
 ### --KEY NOTES
 
 1. Propose a transaction to remove the compromised signer's address from the list of authorized signers.
+
+2. Approve this removal transaction with their own keys.
