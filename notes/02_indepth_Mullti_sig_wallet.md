@@ -59,3 +59,5 @@ For example, you might designate 5 trusted individuals or devices as signers.
 - Now, if Metamask Wallet A were hacked, the attacker, possessing only that one key, could not send the ETH. They would still need approvals from Trezor Wallet B and Frame Wallet C (or any other two valid signers from the remaining four) to reach the 3-signature threshold. The remaining secure signers could then vote to remove Metamask Wallet A as a signer and add a new one(propose).
 
 - For example:
+
+- social recovery, where trusted parties can help you regain access to your assets, aligning with the distributed trust model of multi-sigs.
