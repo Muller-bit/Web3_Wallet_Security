@@ -31,3 +31,5 @@ For example, you might designate 5 trusted individuals or devices as signers.
 2. Transaction Proposal: To initiate a transaction (e.g., sending funds, interacting with another smart contract), a proposal is created within the multi-sig interface.
 
 3. Signature Collection: The required number of X signers must then individually sign this transaction proposal using their respective private keys. Each signature is a cryptographic approval.
+
+4. Execution: Once the smart contract has collected X valid signatures for the proposal, it automatically validates them and executes the transaction.
