@@ -47,3 +47,5 @@ For example, you might designate 5 trusted individuals or devices as signers.
 1. Propose a transaction to remove the compromised signer's address from the list of authorized signers.
 
 2. Approve this removal transaction with their own keys.
+
+3. Subsequently, propose and approve the addition of a new, secure signer key to replace the compromised one, thereby restoring the wallet's full security threshold.
