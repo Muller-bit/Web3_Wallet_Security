@@ -41,3 +41,7 @@ For example, you might designate 5 trusted individuals or devices as signers.
 - Consider this: if one of the signer keys in an X-of-Y multi-sig setup is compromised (e.g., a Metamask wallet used as one of the signers is hacked), the funds within the multi-sig are not immediately at risk. As long as the attacker does not control X or more of the signer keys, they cannot unilaterally authorize transactions. This stands in stark contrast to a single-signature wallet, where the compromise of that one private key typically means the total and irreversible loss of all associated funds.
 
 - Furthermore, multi-sig smart contracts are typically designed with administrative functions that allow the remaining, uncompromised signers to manage the wallet's security. If a signer key is compromised, the other X-1 (or more, if X < Y) legitimate signers can usually collaborate to:
+
+### --KEY NOTES
+
+1. Propose a transaction to remove the compromised signer's address from the list of authorized signers.
