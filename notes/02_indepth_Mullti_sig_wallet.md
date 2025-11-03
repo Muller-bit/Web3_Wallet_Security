@@ -63,3 +63,5 @@ For example, you might designate 5 trusted individuals or devices as signers.
 - Social recovery, where trusted parties can help you regain access to your assets, aligning with the distributed trust model of multi-sigs.
 
 - Crucial Tip: Distribute Your Signer Keys Strategically!
+
+- The most critical aspect of multi-sig security is the distribution of the private keys for the signer wallets.
