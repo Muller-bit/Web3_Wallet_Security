@@ -27,3 +27,5 @@ For example, you might designate 5 trusted individuals or devices as signers.
 #### The process of using a multi-sig wallet generally follows these steps:
 
 1. Asset Storage: Funds or digital assets are sent to and stored within the multi-sig smart contract itself.
+
+2. Transaction Proposal: To initiate a transaction (e.g., sending funds, interacting with another smart contract), a proposal is created within the multi-sig interface.
