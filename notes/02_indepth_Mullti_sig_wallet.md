@@ -77,3 +77,5 @@ For example, you might designate 5 trusted individuals or devices as signers.
 - Geographical Separation: If feasible, store devices holding signer keys in different physical locations.
 
 - Different Individuals (for organizations/DAOs): Assign signer responsibilities to different trusted individuals within the organization.
+
+- Diverse Wallet Software: Avoid using the same wallet software for all signers if possible, as a vulnerability in one software type could affect multiple signers.
