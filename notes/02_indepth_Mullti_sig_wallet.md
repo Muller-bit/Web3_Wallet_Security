@@ -50,7 +50,7 @@ For example, you might designate 5 trusted individuals or devices as signers.
 
 3. Subsequently, propose and approve the addition of a new, secure signer key to REPLACE the compromised one, thereby restoring the wallet's full security threshold.
 
-- For example, in a 3-of-5 multi-sig:
+- For example, in a 3-of-5 multi-sig or so called 3/5 threshold:
 
 - Imagine you have Metamask Wallet A, Trezor Wallet B, and Frame Wallet C, plus two other signer wallets.
 
