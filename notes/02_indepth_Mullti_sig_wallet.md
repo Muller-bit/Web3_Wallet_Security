@@ -65,3 +65,5 @@ For example, you might designate 5 trusted individuals or devices as signers.
 - Crucial Tip: Distribute Your Signer Keys Strategically!
 
 - The most critical aspect of multi-sig security is the distribution of the private keys for the signer wallets.
+
+- Do not store all your private keys for the multi-sig signers on the same device or in the same physical location.
