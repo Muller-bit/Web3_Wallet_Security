@@ -81,3 +81,17 @@ For example, you might designate 5 trusted individuals or devices as signers.
 - Diverse Wallet Software: Avoid using the same wallet software for all signers if possible, as a vulnerability in one software type could affect multiple signers.
 
 ### Leading Multi-Sig Platforms:
+
+- Several platforms provide user-friendly interfaces for creating and managing multi-sig wallets.
+
+### Safe (formerly Gnosis Safe):
+
+- Accessible at safe.global, this is widely regarded as one of the best and most audited multi-sig wallet solutions available. It's my personal top choice and a robust platform for individuals, teams, and DAOs. The Cyfrin blog post "What Should I Use to Store My Cryptocurrency?" (found at cyfrin.io/blog/what-should-i-use-to-store-my-cryptocurrency/) further discusses examples like the 3-of-5 setup commonly implemented with Safe.
+
+### Aragon:
+
+- Offers multi-sig capabilities, often integrated into its broader suite of DAO tooling.
+
+### Take Action:
+
+If you are managing significant crypto assets, developing smart contracts, or involved in a DAO, and you do not yet have a multi-sig wallet set up for these critical functions, I strongly encourage you to explore and implement one. The security benefits are substantial and provide a much-needed safeguard against the ever-present risks in the digital asset space. Setting up a multi-sig is a proactive step towards truly securing your on-chain presence.
