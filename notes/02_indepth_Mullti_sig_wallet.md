@@ -14,7 +14,7 @@ The defining characteristic of a multi-sig wallet is its requirement for multipl
 
 This is a fundamental departure from standard EOAs, where a single compromised private key grants an attacker full control over the associated funds.
 
-- A key feature of multi-sig wallets is their customizability,often referred to as an "X-of-Y" configuration:
+- A key feature of multi-sig wallets is their customizability, often referred to as an "X-of-Y" configuration:
 
 Y: This represents the total number of authorized signers (i.e., distinct private keys or wallets) associated with the multi-sig.
 
@@ -23,3 +23,5 @@ For example, you might designate 5 trusted individuals or devices as signers.
 - X: This defines the minimum number of those Y signers that must approve a transaction before the smart contract will execute it.
 
 - For instance, in a "3-of-5" wallet, at least 3 out of the 5 designated signers must provide their cryptographic signature.
+
+#### The process of using a multi-sig wallet generally follows these steps:
