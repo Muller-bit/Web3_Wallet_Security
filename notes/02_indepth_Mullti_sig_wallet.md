@@ -24,7 +24,7 @@ For example, you might designate 5 trusted individuals or devices as signers.
 
 - For instance, in a "3-of-5" wallet, at least 3 out of the 5 designated signers must provide their cryptographic signature.
 
-### The process of using a multi-sig wallet generally follows these steps:
+### 🔗 The process of using a multi-sig wallet generally follows these steps:
 
 1. Asset Storage: Funds or digital assets are sent to and stored within the multi-sig smart contract itself.
 
