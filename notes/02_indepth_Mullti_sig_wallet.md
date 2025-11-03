@@ -71,3 +71,7 @@ For example, you might designate 5 trusted individuals or devices as signers.
 - E.g, they are all on a single laptop that gets infected with malware , the multi-sig offers no additional security benefit over a standard single-signature wallet.
 
 ### Effective distribution strategies include:
+
+- Different Devices: Use a combination of hardware wallets (like Ledger or Trezor), browser extension wallets on different machines, and mobile wallets.
+
+- Geographical Separation: If feasible, store devices holding signer keys in different physical locations.
