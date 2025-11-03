@@ -55,3 +55,5 @@ For example, you might designate 5 trusted individuals or devices as signers.
 - Imagine you have Metamask Wallet A, Trezor Wallet B, and Frame Wallet C, plus two other signer wallets.
 
 - To send 5 ETH, a proposal is made. Metamask Wallet A approves, Trezor Wallet B approves, and Frame Wallet C approves. The 3/5 threshold is met, and the ETH is sent.
+
+- Now, if Metamask Wallet A were hacked, the attacker, possessing only that one key, could not send the ETH. They would still need approvals from Trezor Wallet B and Frame Wallet C (or any other two valid signers from the remaining four) to reach the 3-signature threshold. The remaining secure signers could then vote to remove Metamask Wallet A as a signer and add a new one.
