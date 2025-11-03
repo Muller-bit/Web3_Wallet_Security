@@ -69,3 +69,5 @@ For example, you might designate 5 trusted individuals or devices as signers.
 - Do not store all your private keys for the multi-sig signers on the same device or in the same physical location.
 
 - E.g, they are all on a single laptop that gets infected with malware , the multi-sig offers no additional security benefit over a standard single-signature wallet.
+
+### Effective distribution strategies include:
