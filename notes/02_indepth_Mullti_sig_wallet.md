@@ -75,3 +75,5 @@ For example, you might designate 5 trusted individuals or devices as signers.
 - Different Devices: Use a combination of hardware wallets (like Ledger or Trezor), browser extension wallets on different machines, and mobile wallets.
 
 - Geographical Separation: If feasible, store devices holding signer keys in different physical locations.
+
+- Different Individuals (for organizations/DAOs): Assign signer responsibilities to different trusted individuals within the organization.
