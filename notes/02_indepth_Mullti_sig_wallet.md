@@ -94,4 +94,4 @@ For example, you might designate 5 trusted individuals or devices as signers.
 
 ### Take Action:
 
-If you are managing significant crypto assets, developing smart contracts, or involved in a DAO, and you do not yet have a multi-sig wallet set up for these critical functions,I strongly encourage you to explore and implement one. The security benefits are substantial and provide a much-needed safeguard against the ever-present risks in the digital asset space.
+If you are managing significant crypto assets, developing smart contracts, or involved in a DAO, and you do not yet have a multi-sig wallet set up for these critical functions,I strongly encourage you to explore and implement one. The security benefits are substantial and provide a much-needed safeguard against the ever-present risks in the digital asset space. Setting up a multi-sig is a proactive step towards truly securing your on-chain presence.
