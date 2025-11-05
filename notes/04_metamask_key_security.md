@@ -98,7 +98,6 @@ If you need to re-verify your Seed Phrase or access a specific account's Private
 
                    - Revealing the Secret Recovery Phrase will also require your Metamask password and may involve Metamask presenting a short security quiz to ensure you understand the implications.
 
-
 ### Understanding Key Concepts and Their Relationships:
 
 - Seed Phrase / Secret Recovery Phrase (SRP) / Mnemonic Phrase: This is a human-readable series of words (typically 12-24) that acts as a master key or root seed for your cryptocurrency wallet. It can be used to deterministically regenerate all private keys, and therefore all blockchain addresses (accounts), associated with that specific wallet. It is the ultimate backup for your entire wallet.
@@ -121,9 +120,8 @@ If you need to re-verify your Seed Phrase or access a specific account's Private
 
              - Password Managers – Use with Caution: While password managers can store sensitive information, remember that they can themselves be targets for hackers. If a password manager is compromised, any keys stored within it could be exposed. This method is generally considered less secure for Seed Phrases than robust offline methods.
 
-- ### Fundamental Principles Apply Across Wallets: 
+- ### Fundamental Principles Apply Across Wallets:
 
 - Whether you are using a "hot" software wallet like Metamask or Rabby, or a "cold" hardware wallet like Ledger or Trezor, the core principles of Seed Phrases and Private Keys remain the same. They are the bedrock of access and recovery for your self-custodied digital assets.
-
 
 This lesson strongly advocates for a proactive, diligent approach to your web3 security. In the world of self-custodial cryptocurrency wallets, your preparedness and responsibility are paramount to protecting your funds.
