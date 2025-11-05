@@ -5,3 +5,5 @@
 - The fundamental mechanics of a social recovery wallet revolve around a few key components:
 
 - 1.  Single "Signing Key": This is the primary key you, as the user, will employ for authorizing transactions in your day-to-day operations.
+
+- 2. "Guardians": You designate a set of trusted individuals or entities as "guardians." Typically, a minimum of three guardians are recommended, though this number can be significantly higher depending on your security preferences.
