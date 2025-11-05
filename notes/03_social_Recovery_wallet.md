@@ -97,3 +97,5 @@ For users interested in exploring these wallet solutions, several reputable opti
 To solidify your understanding, here’s a summary of the core concepts discussed:
 
 - Social Recovery Wallet: A type of wallet, often a smart contract wallet, that uses a single signing key for everyday transactions but allows a pre-selected group of "guardians" to help recover access or change the signing key if the original is lost or compromised.
+
+- Multi-sig Wallet: A wallet requiring M-of-N signatures from a pre-defined set of authorized keys to approve transactions, enhancing security by distributing control.
