@@ -33,3 +33,5 @@ Here’s how Shamir backup enhances security in a social recovery context:
 - The user splits their master key (or a dedicated recovery key) into multiple "shares."
 
 - These individual shares are then distributed among the trusted guardians.
+
+- Crucially, each guardian only possesses a part of the key. No single guardian, acting alone, can reconstruct the full key or access the wallet’s funds.
