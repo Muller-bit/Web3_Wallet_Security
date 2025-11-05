@@ -27,3 +27,5 @@ By understanding and internalizing these security principles from the outset, yo
 The second critical challenge we address is preparing for the unexpected by performing a disaster recovery drill. This exercise simulates a scenario where your primary access to Metamask—be it your computer, browser, or even a hardware wallet—is lost, compromised, or otherwise unavailable. The objective is to ensure you can confidently restore access to your funds using your backed-up Seed Phrase or Private Key.
 
 Why is a Disaster Recovery Drill Essential?
+
+- Human Error & Memory Fade: It's common for individuals to meticulously write down their keys, store them safely, and then, over time, forget the exact location, the correct procedure, or even the significance of what they've stored.
