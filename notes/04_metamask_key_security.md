@@ -15,3 +15,5 @@ The security of your Seed Phrase and Private Keys cannot be overstated. Treat th
 2. Never Share: Do not, under any circumstances, reveal your Seed Phrase or Private Keys to anyone. Sharing them is functionally identical to giving someone the keys to your physical vault or the combination to your safe. Anyone who possesses these can access and control your funds.
 
 3. Backup Thoroughly and Securely: You are solely responsible for creating robust, secure backups of this information. Consider multiple backup methods and locations.
+
+4. Irretrievable if Lost: Understand that in the decentralized world of blockchain, there is no support line, no "forgot password" option, and no central authority that can help you recover lost keys. If you lose your Seed Phrase or Private Keys, you lose access to your associated funds – permanently and irrevocably. For instance, if your house were to burn down, taking with it your only copy of your keys (or if your backup was also destroyed), any cryptocurrency associated with those keys, say $100,000, would be gone forever.
