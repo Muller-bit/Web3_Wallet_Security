@@ -43,3 +43,5 @@ Here’s how Shamir backup enhances security in a social recovery context:
 For users looking to implement this, hardware wallets like the Trezor Model T come with built-in Shamir backup functionality, making them a robust choice for setting up a social recovery system.
 
 ### 🔗 The Security Benefits of Multi-Party Systems
+
+1. Many Signers/Guardians: The involvement of multiple signers (in multi-sigs) or guardians (in social recovery) means that several steps or approvals are needed to execute sensitive operations like changing account ownership or initiating account recovery. This creates a strong defensive layer against unauthorized access or single points of failure.
