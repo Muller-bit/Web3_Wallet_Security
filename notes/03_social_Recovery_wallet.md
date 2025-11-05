@@ -103,3 +103,5 @@ To solidify your understanding, here’s a summary of the core concepts discusse
 - Guardians: Trusted individuals or entities chosen by the wallet owner to assist in the account recovery process for a social recovery wallet.
 
 - Shamir Backup (Shamir's Secret Sharing - SSS): A cryptographic method for splitting a secret (like a private key or recovery phrase) into multiple unique parts called "shares." A specific threshold of these shares must be combined to reconstruct the original secret, ensuring no single share-holder has complete access.
+
+- EOA (Externally Owned Account): A standard blockchain account controlled directly by a private key (e.g., default Metamask accounts). EOAs possess the same address across all EVM-compatible chains.
