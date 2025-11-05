@@ -31,3 +31,5 @@ Why is a Disaster Recovery Drill Essential?
 - Human Error & Memory Fade: It's common for individuals to meticulously write down their keys, store them safely, and then, over time, forget the exact location, the correct procedure, or even the significance of what they've stored.
 
 - Real-World Scenarios: Losing a computer to a crash, theft, or upgrade, misplacing a phone, or having a hardware wallet fail are not uncommon occurrences. Without a practiced and proven recovery plan, such events can lead to the permanent loss of valuable digital assets.
+
+- Ensuring Backup Viability: Regular drills (e.g., setting a calendar reminder every 6 or 12 months) not only refresh your memory of the recovery process but also verify that your backups are still accessible, legible, and correct.
