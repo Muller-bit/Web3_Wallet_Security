@@ -11,3 +11,5 @@
 - 3.  Majority Cooperation for Recovery: The core recovery mechanism lies in the collective action of your guardians. A pre-defined majority of these guardians must cooperate to change the signing key associated with your account. This is crucial if your primary signing key is lost or compromised.
 
 ### 🔗 Social Recovery vs. Multi-Sig: Key Distinctions and Daily Use
+
+- While social recovery wallets share the principle of requiring multiple parties for critical actions, making them "kind of like a multi-sig," there's a vital distinction in their everyday use.
