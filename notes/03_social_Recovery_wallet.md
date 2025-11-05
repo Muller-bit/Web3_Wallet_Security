@@ -45,3 +45,5 @@ For users looking to implement this, hardware wallets like the Trezor Model T co
 ### 🔗 The Security Benefits of Multi-Party Systems
 
 1. Many Signers/Guardians: The involvement of multiple signers (in multi-sigs) or guardians (in social recovery) means that several steps or approvals are needed to execute sensitive operations like changing account ownership or initiating account recovery. This creates a strong defensive layer against unauthorized access or single points of failure.
+
+2. Key Compromise Mitigation: If one of the keys in a multi-sig setup, or the main signing key in a social recovery wallet, is compromised, it doesn't necessarily mean an immediate loss of all funds. Instead, the user can leverage the other signers or guardians to cooperatively swap out the compromised key with a new, secure one, effectively neutralizing the threat without needing to frantically move assets.
