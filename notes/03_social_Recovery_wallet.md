@@ -82,12 +82,18 @@ For users interested in exploring these wallet solutions, several reputable opti
 
 - For Multi-sig:
 
-     - Safe (formerly Gnosis Safe): A widely adopted and highly trusted platform for creating and managing multi-signature wallets. It can also be configured to achieve social recovery-like functionalities.
+  - Safe (formerly Gnosis Safe): A widely adopted and highly trusted platform for creating and managing multi-signature wallets. It can also be configured to achieve social recovery-like functionalities.
 
 - For Social Recovery:
 
-     - Argent: Known for its user-friendly smart contract wallets that natively incorporate social recovery features.
+  - Argent: Known for its user-friendly smart contract wallets that natively incorporate social recovery features.
 
-     - Trezor Model T: As mentioned earlier, this hardware wallet’s Shamir backup feature makes it an excellent component for a robust social recovery setup.
+  - Trezor Model T: As mentioned earlier, this hardware wallet’s Shamir backup feature makes it an excellent component for a robust social recovery setup.
 
-     - Safe: Can also be utilized for sophisticated social recovery mechanisms.
+  - Safe: Can also be utilized for sophisticated social recovery mechanisms.
+
+### 🔗 Key Concepts Recap
+
+To solidify your understanding, here’s a summary of the core concepts discussed:
+
+- Social Recovery Wallet: A type of wallet, often a smart contract wallet, that uses a single signing key for everyday transactions but allows a pre-selected group of "guardians" to help recover access or change the signing key if the original is lost or compromised.
