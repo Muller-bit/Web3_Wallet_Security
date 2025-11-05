@@ -61,3 +61,5 @@ It becomes a "race" against the attacker to secure the account, a chance that do
 If one of the N keys is compromised, the remaining (M-1) valid keys from the remaining (N-1) uncompromised signers can be used to remove the compromised key and add a new one, safeguarding the funds without interruption or loss.
 
 ### 🔗 Navigating the Drawbacks of Smart Contract Wallets
+
+Multi-sig wallets and many social recovery wallets are implemented as smart contracts on the blockchain. While powerful, this architecture comes with certain drawbacks compared to standard EOAs:
