@@ -39,3 +39,7 @@ Here’s how Shamir backup enhances security in a social recovery context:
 - The original key can only be reassembled, and thus the wallet recovered, when a sufficient, pre-determined number of these shares are combined.
 
 - A recovery share itself is typically represented as a sequence of 20 or 33 English words, each carrying a fragment of the cryptographic secret.
+
+For users looking to implement this, hardware wallets like the Trezor Model T come with built-in Shamir backup functionality, making them a robust choice for setting up a social recovery system.
+
+### 🔗 The Security Benefits of Multi-Party Systems
