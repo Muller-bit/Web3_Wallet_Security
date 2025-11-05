@@ -52,4 +52,6 @@ For users looking to implement this, hardware wallets like the Trezor Model T co
 
 For developers operating in the Web3 space, adopting multi-signature wallets for managing project funds or personal assets is strongly recommended for enhanced security:
 
-- 1-of-1 Multi-sig: Even a seemingly basic "one of one" multi-sig (where there's a single owner/signer, and that one signature is required) offers an advantage over a standard Externally Owned Account (EOA).
+- 1-of-1 Multi-sig: Even a seemingly basic "one of one" multi-sig (where there's a single owner/signer, and that one signature is required) offers an advantage over a standard Externally Owned Account (EOA).If that single signer's private key is hacked, the multi-sig's architecture provides a mechanism to swap out the compromised signer/key.
+
+It becomes a "race" against the attacker to secure the account, a chance that doesn't exist with an EOA where a compromised key means immediate loss of control.
