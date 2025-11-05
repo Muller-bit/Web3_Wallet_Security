@@ -64,8 +64,12 @@ If one of the N keys is compromised, the remaining (M-1) valid keys from the rem
 
 Multi-sig wallets and many social recovery wallets are implemented as smart contracts on the blockchain. While powerful, this architecture comes with certain drawbacks compared to standard EOAs:
 
-1. Weak Support from Web3 Apps: Historically, direct interaction with decentralized applications (dApps) using multi-sig or smart contract wallets has been less seamless than with EOAs like Metamask. While support is continuously improving, users might still encounter friction or incompatibilities with some dApps.
+1.  Weak Support from Web3 Apps: Historically, direct interaction with decentralized applications (dApps) using multi-sig or smart contract wallets has been less seamless than with EOAs like Metamask. While support is continuously improving, users might still encounter friction or incompatibilities with some dApps.
 
-2. Higher Gas Costs: Transactions originating from smart contract wallets generally incur higher gas fees. This is because they involve more complex logic execution on the blockchain (i.e., running the smart contract code) compared to simple transfers from an EOA.
+2.  Higher Gas Costs: Transactions originating from smart contract wallets generally incur higher gas fees. This is because they involve more complex logic execution on the blockchain (i.e., running the smart contract code) compared to simple transfers from an EOA.
 
-3. Address is Different on Different Chains (Most Significant Con): This is a crucial point of distinction and potential confusion:
+3.  Address is Different on Different Chains (Most Significant Con): This is a crucial point of distinction and potential confusion:
+
+            - EOA (Externally Owned Account): An EOA's address (like your standard Metamask account address) is  mathematically derived from its private key. This means your EOA address will be the same across all EVM-compatible blockchains (e.g., Ethereum Mainnet, Polygon, Base, Linea). An address like 0x64331...9FF88D will be consistent on all these networks.
+
+
