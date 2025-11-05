@@ -25,3 +25,9 @@
 * Recovery Scenario: If you unfortunately lose your signing key, the social recovery functionality is activated. Your designated guardians can then collaborate to authorize a change of the account's signing key to a new, secure one, allowing you to regain access to your funds.
 
 ### 🔗 Addressing Security: Guardian Access and Shamir's Secret Sharing
+
+A common question arises: "If guardians can help recover my account, wouldn't they also have access to my wallet and funds? Isn't that bad?" This concern is effectively addressed through a cryptographic technique known as Shamir's Secret Sharing (SSS), often implemented as a Shamir backup.
+
+Here’s how Shamir backup enhances security in a social recovery context:
+
+- The user splits their master key (or a dedicated recovery key) into multiple "shares."
