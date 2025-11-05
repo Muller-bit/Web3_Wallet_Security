@@ -75,3 +75,5 @@ Multi-sig wallets and many social recovery wallets are implemented as smart cont
             - Multi-sigs / Smart Contract Wallets: These are, in essence, smart contracts deployed to a specific blockchain.When you set up a multi-sig or social recovery wallet on a new chain, you are deploying a new instance of that smart contract onto that chain.
 
 For users and developers considering these advanced wallet types, understanding these trade-offs is essential. Further exploration of cryptocurrency storage strategies can be found on various educational platforms, including resources like the Cyfrin blog, which delve into such comparisons.
+
+### 🔗 Recommended Wallets for Social Recovery and Multi-Sig
