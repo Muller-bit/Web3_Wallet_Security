@@ -73,3 +73,5 @@ Multi-sig wallets and many social recovery wallets are implemented as smart cont
             - EOA (Externally Owned Account): An EOA's address (like your standard Metamask account address) is  mathematically derived from its private key. This means your EOA address will be the same across all EVM-compatible blockchains (e.g., Ethereum Mainnet, Polygon, Base, Linea). An address like 0x64331...9FF88D will be consistent on all these networks.
 
             - Multi-sigs / Smart Contract Wallets: These are, in essence, smart contracts deployed to a specific blockchain.When you set up a multi-sig or social recovery wallet on a new chain, you are deploying a new instance of that smart contract onto that chain.
+
+For users and developers considering these advanced wallet types, understanding these trade-offs is essential. Further exploration of cryptocurrency storage strategies can be found on various educational platforms, including resources like the Cyfrin blog, which delve into such comparisons.
