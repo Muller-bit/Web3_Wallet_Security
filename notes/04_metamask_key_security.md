@@ -13,3 +13,5 @@ The security of your Seed Phrase and Private Keys cannot be overstated. Treat th
 1. Absolute Secrecy: Your Seed Phrase and Private Keys must be kept entirely secret, at all times, from everyone.
 
 2. Never Share: Do not, under any circumstances, reveal your Seed Phrase or Private Keys to anyone. Sharing them is functionally identical to giving someone the keys to your physical vault or the combination to your safe. Anyone who possesses these can access and control your funds.
+
+3. Backup Thoroughly and Securely: You are solely responsible for creating robust, secure backups of this information. Consider multiple backup methods and locations.
