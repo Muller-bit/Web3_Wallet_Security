@@ -67,3 +67,5 @@ Multi-sig wallets and many social recovery wallets are implemented as smart cont
 1. Weak Support from Web3 Apps: Historically, direct interaction with decentralized applications (dApps) using multi-sig or smart contract wallets has been less seamless than with EOAs like Metamask. While support is continuously improving, users might still encounter friction or incompatibilities with some dApps.
 
 2. Higher Gas Costs: Transactions originating from smart contract wallets generally incur higher gas fees. This is because they involve more complex logic execution on the blockchain (i.e., running the smart contract code) compared to simple transfers from an EOA.
+
+3. Address is Different on Different Chains (Most Significant Con): This is a crucial point of distinction and potential confusion:
