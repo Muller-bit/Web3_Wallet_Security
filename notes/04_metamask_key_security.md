@@ -21,3 +21,5 @@ The security of your Seed Phrase and Private Keys cannot be overstated. Treat th
 5. Course Requirement: For the practical exercises in this course, you will need to keep a secure note of these keys, as they will be utilized in subsequent lessons and drills.
 
 By understanding and internalizing these security principles from the outset, you lay a strong foundation for safely navigating the world of self-custodial cryptocurrency management.
+
+### Performing a Metamask Disaster Recovery Drill
