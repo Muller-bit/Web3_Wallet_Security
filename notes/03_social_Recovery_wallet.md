@@ -13,3 +13,7 @@
 ### 🔗 Social Recovery vs. Multi-Sig: Key Distinctions and Daily Use
 
 - While social recovery wallets share the principle of requiring multiple parties for critical actions, making them "kind of like a multi-sig," there's a vital distinction in their everyday use.
+
+- In a social recovery setup, normal transaction approvals still rely on your single signing key. This streamlines daily operations, often requiring just a single confirmation click, much like a standard wallet.
+
+- This contrasts with traditional multi-sig wallets where multiple signatures might be necessary for every transaction.
