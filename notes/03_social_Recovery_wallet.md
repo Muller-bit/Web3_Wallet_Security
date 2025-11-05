@@ -22,5 +22,6 @@
 
 * Normal Usage: As highlighted in discussions by Vitalik Buterin, under normal circumstances, a social recovery wallet functions like any regular wallet (e.g., Metamask). You sign messages and transactions using your single signing key, offering a seamless user experience.
 
-
 * Recovery Scenario: If you unfortunately lose your signing key, the social recovery functionality is activated. Your designated guardians can then collaborate to authorize a change of the account's signing key to a new, secure one, allowing you to regain access to your funds.
+
+### 🔗 Addressing Security: Guardian Access and Shamir's Secret Sharing
