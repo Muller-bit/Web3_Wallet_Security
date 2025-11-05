@@ -17,3 +17,7 @@
 - In a social recovery setup, normal transaction approvals still rely on your single signing key. This streamlines daily operations, often requiring just a single confirmation click, much like a standard wallet.
 
 - This contrasts with traditional multi-sig wallets where multiple signatures might be necessary for every transaction.
+
+- The advantages become clear when considering different scenarios:
+
+* Normal Usage: As highlighted in discussions by Vitalik Buterin, under normal circumstances, a social recovery wallet functions like any regular wallet (e.g., Metamask). You sign messages and transactions using your single signing key, offering a seamless user experience.
