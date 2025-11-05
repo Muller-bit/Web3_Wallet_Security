@@ -55,3 +55,5 @@ For developers operating in the Web3 space, adopting multi-signature wallets for
 - 1-of-1 Multi-sig: Even a seemingly basic "one of one" multi-sig (where there's a single owner/signer, and that one signature is required) offers an advantage over a standard Externally Owned Account (EOA).If that single signer's private key is hacked, the multi-sig's architecture provides a mechanism to swap out the compromised signer/key.
 
 It becomes a "race" against the attacker to secure the account, a chance that doesn't exist with an EOA where a compromised key means immediate loss of control.
+
+- 2-of-3 Multi-sig (or similar M-of-N schemes): Configurations like "2-of-3" or other M-of-N schemes (where M out of N signatures are required) provide even more robust security.
