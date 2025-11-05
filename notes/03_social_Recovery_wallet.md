@@ -31,3 +31,5 @@ A common question arises: "If guardians can help recover my account, wouldn't th
 Here’s how Shamir backup enhances security in a social recovery context:
 
 - The user splits their master key (or a dedicated recovery key) into multiple "shares."
+
+- These individual shares are then distributed among the trusted guardians.
