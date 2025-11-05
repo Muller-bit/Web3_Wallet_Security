@@ -57,3 +57,5 @@ For developers operating in the Web3 space, adopting multi-signature wallets for
 It becomes a "race" against the attacker to secure the account, a chance that doesn't exist with an EOA where a compromised key means immediate loss of control.
 
 - 2-of-3 Multi-sig (or similar M-of-N schemes): Configurations like "2-of-3" or other M-of-N schemes (where M out of N signatures are required) provide even more robust security.
+
+If one of the N keys is compromised, the remaining (M-1) valid keys from the remaining (N-1) uncompromised signers can be used to remove the compromised key and add a new one, safeguarding the funds without interruption or loss.
