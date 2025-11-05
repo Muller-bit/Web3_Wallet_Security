@@ -1,4 +1,4 @@
-### Mastering Metamask Installation and Key Security
+### 🔗 Mastering Metamask Installation and Key Security
 
 Welcome to this essential lesson on navigating two critical challenges with Metamask: its secure installation and the vital practice of disaster recovery. Properly managing your Metamask wallet is fundamental to safeguarding your digital assets in the web3 space.
 
