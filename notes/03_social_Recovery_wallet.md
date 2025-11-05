@@ -105,3 +105,5 @@ To solidify your understanding, here’s a summary of the core concepts discusse
 - Shamir Backup (Shamir's Secret Sharing - SSS): A cryptographic method for splitting a secret (like a private key or recovery phrase) into multiple unique parts called "shares." A specific threshold of these shares must be combined to reconstruct the original secret, ensuring no single share-holder has complete access.
 
 - EOA (Externally Owned Account): A standard blockchain account controlled directly by a private key (e.g., default Metamask accounts). EOAs possess the same address across all EVM-compatible chains.
+
+- Smart Contract Wallet: A wallet whose functionalities and logic are governed by a smart contract deployed on the blockchain (examples include Safe and Argent). These wallets typically have different addresses on each blockchain network where they are deployed.
