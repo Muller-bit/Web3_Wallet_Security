@@ -35,3 +35,5 @@ Why is a Disaster Recovery Drill Essential?
 - Ensuring Backup Viability: Regular drills (e.g., setting a calendar reminder every 6 or 12 months) not only refresh your memory of the recovery process but also verify that your backups are still accessible, legible, and correct.
 
 ### Step-by-Step Disaster Recovery Process:
+
+This walkthrough mirrors the demonstration you might see in a video tutorial, guiding you through restoring your Metamask wallet.
