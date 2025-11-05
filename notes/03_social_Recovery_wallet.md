@@ -63,3 +63,5 @@ If one of the N keys is compromised, the remaining (M-1) valid keys from the rem
 ### 🔗 Navigating the Drawbacks of Smart Contract Wallets
 
 Multi-sig wallets and many social recovery wallets are implemented as smart contracts on the blockchain. While powerful, this architecture comes with certain drawbacks compared to standard EOAs:
+
+1. Weak Support from Web3 Apps: Historically, direct interaction with decentralized applications (dApps) using multi-sig or smart contract wallets has been less seamless than with EOAs like Metamask. While support is continuously improving, users might still encounter friction or incompatibilities with some dApps.
