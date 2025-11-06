@@ -114,7 +114,8 @@ Let's break down the information presented in the MetaMask transaction request p
 
    - referralCode (MetaMask's Param #3): The documentation might state this is "Inactive, can pass 0 as placeholder" or provide other instructions. Seeing 0 here, if aligned with the docs, is correct.
 
-Supporting Check: Network Fee (Gas Cost)
+### 🔗 Supporting Check: Network Fee (Gas Cost)
+
 What it is: MetaMask displays the estimated network fee (gas cost) for your transaction (e.g., $1.42 - $1.86).
 
 Verification: Check if this fee seems reasonable for the current network conditions and the complexity of the transaction. An outrageously high gas fee for a simple transaction could be a red flag, potentially indicating an issue with the DApp or even a malicious contract designed to drain gas.
