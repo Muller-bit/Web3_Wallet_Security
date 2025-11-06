@@ -74,11 +74,12 @@ Let's break down the information presented in the MetaMask transaction request p
 
    - Compare the address shown in MetaMask with the official list. For our Aave example, you would look for the WrappedTokenGateway contract address and verify it matches 0xd01607c3c5eCABA394D8be377a08590149325722.
 
-Google (Use with Caution): You can also try Googling the contract address. Reputable contracts are often discussed in community forums or articles. However, be wary of information from unverified sources.
+3. Google (Use with Caution): You can also try Googling the contract address. Reputable contracts are often discussed in community forums or articles. However, be wary of information from unverified sources.
 
-MetaMask Tip: Nicknaming Contracts: Once you've thoroughly verified a contract address, you can click on the address within the MetaMask pop-up and assign it a recognizable nickname (e.g., "Aave: ETH Supply Contract"). In subsequent interactions with this same contract, MetaMask will display your custom nickname, making future verifications quicker and more confident.
+- MetaMask Tip: Nicknaming Contracts: Once you've thoroughly verified a contract address, you can click on the address within the MetaMask pop-up and assign it a recognizable nickname (e.g., "Aave: ETH Supply Contract"). In subsequent interactions with this same contract, MetaMask will display your custom nickname, making future verifications quicker and more confident.
 
-Critical Check 2: The Function Call ("Method")
+### 🔗 Critical Check 2: The Function Call ("Method")
+
 What it is: MetaMask will typically display the name of the function being called on the smart contract (e.g., Deposit ETH).
 
 Verification: Ensure this function name aligns with the action you intend to perform. If you want to supply ETH, seeing Deposit ETH or a similar, understandable function name is expected. If it shows something unrelated or suspicious (e.g., TransferAllTokens), it's a major red flag.
