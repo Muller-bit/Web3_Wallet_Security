@@ -116,11 +116,11 @@ Let's break down the information presented in the MetaMask transaction request p
 
 ### 🔗 Supporting Check: Network Fee (Gas Cost)
 
-What it is: MetaMask displays the estimated network fee (gas cost) for your transaction (e.g., $1.42 - $1.86).
+- What it is: MetaMask displays the estimated network fee (gas cost) for your transaction (e.g., $1.42 - $1.86).
 
-Verification: Check if this fee seems reasonable for the current network conditions and the complexity of the transaction. An outrageously high gas fee for a simple transaction could be a red flag, potentially indicating an issue with the DApp or even a malicious contract designed to drain gas.
+- Verification: Check if this fee seems reasonable for the current network conditions and the complexity of the transaction. An outrageously high gas fee for a simple transaction could be a red flag, potentially indicating an issue with the DApp or even a malicious contract designed to drain gas.
 
-Nonce: MetaMask also shows a "Nonce," which is an internal transaction counter for your account. This generally increments with each transaction and doesn't usually require manual verification for standard operations unless you are an advanced user troubleshooting specific issues.
+- Nonce: MetaMask also shows a "Nonce," which is an internal transaction counter for your account. This generally increments with each transaction and doesn't usually require manual verification for standard operations unless you are an advanced user troubleshooting specific issues.
 
 Finalizing and Observing Your Verified Transaction
 Once you have meticulously performed all the verification steps above and are confident that the transaction is legitimate and will perform the intended action correctly:
