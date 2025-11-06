@@ -16,7 +16,7 @@
 
 2. A list of compatible wallet options will appear; select "MetaMask."
 
-MetaMask will prompt you with a connection request, asking for permission to connect a specific account from your wallet to the Aave site. Review the account and click "Connect."
+3. MetaMask will prompt you with a connection request, asking for permission to connect a specific account from your wallet to the Aave site. Review the account and click "Connect."
 
 - Once successfully connected, the Aave interface will update to reflect your wallet's connection status and may display relevant information such as your asset balances. For instance, you might see your wallet name (e.g., "small testnet") and its current balance (e.g., ~$23) displayed within Aave, confirming it's linked to the Ethereum mainnet.
 
