@@ -44,7 +44,7 @@ Let's break down the information presented in the MetaMask transaction request p
 
 ### 🔗 Preliminary Check: Request Origin and Estimated Changes
 
-Request From: MetaMask will display the website initiating the transaction request (e.g., app.aave.com).
+- Request From: MetaMask will display the website initiating the transaction request (e.g., app.aave.com).
 
 Verification: Always ensure this URL matches the legitimate, official website of the DApp you intend to interact with. Phishing sites often mimic legitimate DApps to trick users into signing malicious transactions.
 
