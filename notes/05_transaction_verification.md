@@ -21,3 +21,17 @@ MetaMask will prompt you with a connection request, asking for permission to con
 - Once successfully connected, the Aave interface will update to reflect your wallet's connection status and may display relevant information such as your asset balances. For instance, you might see your wallet name (e.g., "small testnet") and its current balance (e.g., ~$23) displayed within Aave, confirming it's linked to the Ethereum mainnet.
 
 ### 🔗 Initiating a DeFi Transaction: Supplying ETH to Aave
+
+Let's illustrate the transaction process by supplying some Ether (ETH) to Aave to earn interest, often displayed as an Annual Percentage Yield (APY).
+
+Within the Aave interface, locate the section for "Assets to supply."
+
+Select ETH from the list and click the "Supply" button.
+
+A pop-up will appear on the Aave website, prompting you to specify the amount of ETH you wish to supply. For this example, we'll input 0.001 ETH (which might be equivalent to around $2.44 at the time of the transaction).
+
+This Aave pop-up will also display important details like the current "Supply APY" (e.g., 1.88%) and an estimated "Gas" fee for the transaction (e.g., $1.27).
+
+Note on Gas Fees: It's worth noting that performing very small transactions on the Ethereum mainnet, where gas fees can be relatively high, might not always be economically sensible. For such operations, Layer 2 scaling solutions like ZkSync often offer a more cost-effective alternative. However, for this demonstration, we will proceed on the mainnet.
+
+After entering the amount and reviewing the details, clicking "Supply ETH" on the Aave pop-up will trigger your MetaMask wallet. A new MetaMask pop-up will appear, requesting your confirmation for the actual blockchain transaction. This is where the critical verification steps begin.
