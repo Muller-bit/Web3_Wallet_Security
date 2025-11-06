@@ -30,7 +30,7 @@ Let's illustrate the transaction process by supplying some Ether (ETH) to Aave t
 
 3. A pop-up will appear on the Aave website, prompting you to specify the amount of ETH you wish to supply. For this example, we'll input 0.001 ETH (which might be equivalent to around $2.44 at the time of the transaction).
 
-This Aave pop-up will also display important details like the current "Supply APY" (e.g., 1.88%) and an estimated "Gas" fee for the transaction (e.g., $1.27).
+4. This Aave pop-up will also display important details like the current "Supply APY" (e.g., 1.88%) and an estimated "Gas" fee for the transaction (e.g., $1.27).
 
 Note on Gas Fees: It's worth noting that performing very small transactions on the Ethereum mainnet, where gas fees can be relatively high, might not always be economically sensible. For such operations, Layer 2 scaling solutions like ZkSync often offer a more cost-effective alternative. However, for this demonstration, we will proceed on the mainnet.
 
