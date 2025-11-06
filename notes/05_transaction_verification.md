@@ -52,19 +52,19 @@ Let's break down the information presented in the MetaMask transaction request p
 
 ### 🔗 Critical Check 1: The Smart Contract Address ("Interacting With")
 
-What it is: MetaMask shows the address of the smart contract your transaction is being sent to (e.g., 0xd01607c3c5eCABA394D8be377a08590149325722). This is the actual recipient of your funds and instructions on the blockchain.
+- What it is: MetaMask shows the address of the smart contract your transaction is being sent to (e.g., 0xd01607c3c5eCABA394D8be377a08590149325722). This is the actual recipient of your funds and instructions on the blockchain.
 
-Why it's crucial: You must ensure you are interacting with the genuine, official smart contract of the protocol. Sending funds or authorizing operations with a malicious or incorrect contract address will almost certainly result in loss.
+- Why it's crucial: You must ensure you are interacting with the genuine, official smart contract of the protocol. Sending funds or authorizing operations with a malicious or incorrect contract address will almost certainly result in loss.
 
-Verification Methods:
+- Verification Methods:
 
-Etherscan (etherscan.io):
+1. Etherscan (etherscan.io):
 
-Copy the contract address from MetaMask.
+   - Copy the contract address from MetaMask.
 
-Navigate to Etherscan.io (the leading Ethereum block explorer) and paste the address into the search bar.
+   - Navigate to Etherscan.io (the leading Ethereum block explorer) and paste the address into the search bar.
 
-Examine the contract's page on Etherscan. Look for official labels or tags. For well-known protocols like Aave, Etherscan often displays verified tags (e.g., "Aave: ETH Staking Contract" or "Aave: WrappedTokenGatewayV3"). These tags provide a strong indication of legitimacy.
+   - Examine the contract's page on Etherscan. Look for official labels or tags. For well-known protocols like Aave, Etherscan often displays verified tags (e.g., "Aave: ETH Staking Contract" or "Aave: WrappedTokenGatewayV3"). These tags provide a strong indication of legitimacy.
 
 Official Protocol Documentation:
 
