@@ -36,9 +36,9 @@ Let's illustrate the transaction process by supplying some Ether (ETH) to Aave t
 
 5. After entering the amount and reviewing the details, clicking "Supply ETH" on the Aave pop-up will trigger your MetaMask wallet. A new MetaMask pop-up will appear, requesting your confirmation for the actual blockchain transaction. This is where the critical verification steps begin.
 
-- FIX THE FORMATING !
-  The Golden Rules of Transaction Verification in MetaMask
-  This is the most crucial phase. Never blindly click "Confirm" in your wallet. The consequences of signing unverified transactions can be severe. For instance, the Bybit exchange reportedly lost $1.5 billion because their team signed a transaction originating from a compromised website without adequate verification. Diligence here is paramount.
+### 🔗 The Golden Rules of Transaction Verification in MetaMask
+
+This is the most crucial phase. Never blindly click "Confirm" in your wallet. The consequences of signing unverified transactions can be severe. For instance, the Bybit exchange reportedly lost $1.5 billion because their team signed a transaction originating from a compromised website without adequate verification. Diligence here is paramount.
 
 Let's break down the information presented in the MetaMask transaction request pop-up and how to verify each part:
 
