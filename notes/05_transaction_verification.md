@@ -46,7 +46,7 @@ Let's break down the information presented in the MetaMask transaction request p
 
 - Request From: MetaMask will display the website initiating the transaction request (e.g., app.aave.com).
 
-Verification: Always ensure this URL matches the legitimate, official website of the DApp you intend to interact with. Phishing sites often mimic legitimate DApps to trick users into signing malicious transactions.
+  - Verification: Always ensure this URL matches the legitimate, official website of the DApp you intend to interact with. Phishing sites often mimic legitimate DApps to trick users into signing malicious transactions.
 
 Estimated Changes: MetaMask often provides an estimate of how the transaction will affect your balances (e.g., "You send -0.001 ETH" and "You receive +0.001 AWETH"). AWETH, in this case, is Aave's interest-bearing token representing your supplied ETH. While helpful, these estimates are simulations and are not foolproof. Do not rely solely on them.
 
