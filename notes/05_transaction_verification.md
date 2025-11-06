@@ -28,7 +28,7 @@ Let's illustrate the transaction process by supplying some Ether (ETH) to Aave t
 
 2. Select ETH from the list and click the "Supply" button.
 
-A pop-up will appear on the Aave website, prompting you to specify the amount of ETH you wish to supply. For this example, we'll input 0.001 ETH (which might be equivalent to around $2.44 at the time of the transaction).
+3. A pop-up will appear on the Aave website, prompting you to specify the amount of ETH you wish to supply. For this example, we'll input 0.001 ETH (which might be equivalent to around $2.44 at the time of the transaction).
 
 This Aave pop-up will also display important details like the current "Supply APY" (e.g., 1.88%) and an estimated "Gas" fee for the transaction (e.g., $1.27).
 
