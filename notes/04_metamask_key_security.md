@@ -34,7 +34,7 @@ Why is a Disaster Recovery Drill Essential?
 
 - Ensuring Backup Viability: Regular drills (e.g., setting a calendar reminder every 6 or 12 months) not only refresh your memory of the recovery process but also verify that your backups are still accessible, legible, and correct.
 
-### Step-by-Step Disaster Recovery Process:
+### 🔗 Step-by-Step Disaster Recovery Process:
 
 This walkthrough mirrors the demonstration you might see in a video tutorial, guiding you through restoring your Metamask wallet.
 
@@ -54,7 +54,7 @@ This walkthrough mirrors the demonstration you might see in a video tutorial, gu
 
 You now have two primary methods for restoration:
 
-### Option A: Restoring with Your Seed Recovery Phrase (SRP):
+### 🔗 Option A: Restoring with Your Seed Recovery Phrase (SRP):
 
        a. Metamask will prompt you to enter your Secret Recovery Phrase. This is typically a sequence of 12 words, though it can also be 15, 18, 21, or 24 words.
 
@@ -66,7 +66,7 @@ You now have two primary methods for restoration:
 
        e. Upon successful import, your wallet, along with all the accounts originally derived from that seed phrase, will be restored and accessible.
 
-### Option B: Importing a Single Account with a Private Key:
+### 🔗 Option B: Importing a Single Account with a Private Key:
 
 This method is used if you wish to add a specific, individual account to Metamask (perhaps one not derived from the primary seed phrase you just used, or if you only have the private key for a particular account). This can be done in an existing Metamask installation or after restoring with an SRP.
 
@@ -84,7 +84,7 @@ This method is used if you wish to add a specific, individual account to Metamas
 
          g. This action will add only that specific account to your Metamask. It does not restore an entire wallet with multiple accounts in the way an SRP does.
 
-4. ### Accessing Keys from an Existing Metamask Installation (for Backup or Drills):
+4. ### 🔗 Accessing Keys from an Existing Metamask Installation (for Backup or Drills):
 
 If you need to re-verify your Seed Phrase or access a specific account's Private Key from an already functioning Metamask installation (perhaps to create a new backup or for this drill itself):
 
@@ -98,7 +98,7 @@ If you need to re-verify your Seed Phrase or access a specific account's Private
 
                    - Revealing the Secret Recovery Phrase will also require your Metamask password and may involve Metamask presenting a short security quiz to ensure you understand the implications.
 
-### Understanding Key Concepts and Their Relationships:
+### 🔗 Understanding Key Concepts and Their Relationships:
 
 - Seed Phrase / Secret Recovery Phrase (SRP) / Mnemonic Phrase: This is a human-readable series of words (typically 12-24) that acts as a master key or root seed for your cryptocurrency wallet. It can be used to deterministically regenerate all private keys, and therefore all blockchain addresses (accounts), associated with that specific wallet. It is the ultimate backup for your entire wallet.
 
@@ -108,7 +108,7 @@ If you need to re-verify your Seed Phrase or access a specific account's Private
 
 - Self-Custody: When you use a wallet like Metamask, you are engaging in self-custody. This means you, and only you, have control over your private keys and, therefore, your crypto assets. This grants immense freedom and control but also places the full responsibility for security squarely on your shoulders. You are, in effect, your own bank.
 
-### Key Takeaways and Proactive Security Tips:
+### 🔗 Key Takeaways and Proactive Security Tips:
 
 - Practice Makes Perfect: Don't just create backups of your keys and forget about them. Regularly practice the disaster recovery process. This ensures you understand the steps, can perform them under pressure, and that your backups are valid and accessible. Set calendar reminders for these drills.
 
@@ -120,7 +120,7 @@ If you need to re-verify your Seed Phrase or access a specific account's Private
 
              - Password Managers – Use with Caution: While password managers can store sensitive information, remember that they can themselves be targets for hackers. If a password manager is compromised, any keys stored within it could be exposed. This method is generally considered less secure for Seed Phrases than robust offline methods.
 
-- ### Fundamental Principles Apply Across Wallets:
+- ### 🔗 Fundamental Principles Apply Across Wallets:
 
 - Whether you are using a "hot" software wallet like Metamask or Rabby, or a "cold" hardware wallet like Ledger or Trezor, the core principles of Seed Phrases and Private Keys remain the same. They are the bedrock of access and recovery for your self-custodied digital assets.
 
