@@ -24,7 +24,7 @@
 
 Let's illustrate the transaction process by supplying some Ether (ETH) to Aave to earn interest, often displayed as an Annual Percentage Yield (APY).
 
-Within the Aave interface, locate the section for "Assets to supply."
+1. Within the Aave interface, locate the section for "Assets to supply."
 
 Select ETH from the list and click the "Supply" button.
 
