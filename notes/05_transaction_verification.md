@@ -32,7 +32,7 @@ Let's illustrate the transaction process by supplying some Ether (ETH) to Aave t
 
 4. This Aave pop-up will also display important details like the current "Supply APY" (e.g., 1.88%) and an estimated "Gas" fee for the transaction (e.g., $1.27).
 
-Note on Gas Fees: It's worth noting that performing very small transactions on the Ethereum mainnet, where gas fees can be relatively high, might not always be economically sensible. For such operations, Layer 2 scaling solutions like ZkSync often offer a more cost-effective alternative. However, for this demonstration, we will proceed on the mainnet.
+      - Note on Gas Fees: It's worth noting that performing very small transactions on the Ethereum mainnet, where gas fees can be relatively high, might not always be economically sensible. For such operations, Layer 2 scaling solutions like ZkSync often offer a more cost-effective alternative. However, for this demonstration, we will proceed on the mainnet.
 
 After entering the amount and reviewing the details, clicking "Supply ETH" on the Aave pop-up will trigger your MetaMask wallet. A new MetaMask pop-up will appear, requesting your confirmation for the actual blockchain transaction. This is where the critical verification steps begin.
 
