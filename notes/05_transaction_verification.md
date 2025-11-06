@@ -156,12 +156,12 @@ This walkthrough of supplying ETH to Aave, with a deep focus on transaction veri
 
 - MetaMask Estimates are Guides: While helpful, features like "Estimated Changes" are not definitive proof of safety. The raw data and contract interactions are what matter.
 
-  Documentation is Your Friend: Official protocol documentation is the ultimate source of truth for smart contract addresses, function signatures, and parameter meanings.
+- Documentation is Your Friend: Official protocol documentation is the ultimate source of truth for smart contract addresses, function signatures, and parameter meanings.
 
-  Block Explorers for Transparency: Tools like Etherscan provide an immutable, transparent record of all blockchain activity and are invaluable for verification.
+- Block Explorers for Transparency: Tools like Etherscan provide an immutable, transparent record of all blockchain activity and are invaluable for verification.
 
-  Verify Recipient Addresses: For any transaction involving deposits, transfers, or actions that should benefit you, ensure parameters like onBehalfOf or other recipient fields are correctly set to your address.
+- Verify Recipient Addresses: For any transaction involving deposits, transfers, or actions that should benefit you, ensure parameters like onBehalfOf or other recipient fields are correctly set to your address.
 
-  Be Wary of Unsolicited Requests: Be extremely cautious if a DApp or website unexpectedly prompts your wallet for a transaction you didn't initiate.
+- Be Wary of Unsolicited Requests: Be extremely cautious if a DApp or website unexpectedly prompts your wallet for a transaction you didn't initiate.
 
 By consistently applying these verification steps, you significantly reduce your risk of falling victim to scams or errors in the decentralized world. Future lessons will delve into simulated environments for practice and explore additional verification nuances, particularly for users of hardware wallets.
