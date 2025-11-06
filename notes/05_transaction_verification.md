@@ -126,27 +126,27 @@ Let's break down the information presented in the MetaMask transaction request p
 
 Once you have meticulously performed all the verification steps above and are confident that the transaction is legitimate and will perform the intended action correctly:
 
-Click "Confirm" in the MetaMask pop-up.
+1. Click "Confirm" in the MetaMask pop-up.
 
-MetaMask will indicate that "Your transaction was submitted." The status will typically change from "Pending" to "Confirmed" once the transaction is mined and included in a block on the Ethereum blockchain.
+2. MetaMask will indicate that "Your transaction was submitted." The status will typically change from "Pending" to "Confirmed" once the transaction is mined and included in a block on the Ethereum blockchain.
 
-The DApp's user interface (Aave, in this case) should update to reflect the successful transaction (e.g., showing your supplied ETH balance).
+3. The DApp's user interface (Aave, in this case) should update to reflect the successful transaction (e.g., showing your supplied ETH balance).
 
-You can further observe the transaction details on a block explorer like Etherscan. MetaMask usually provides a link to "View transaction" or "View on block explorer." On Etherscan, you can re-verify:
+4. You can further observe the transaction details on a block explorer like Etherscan. MetaMask usually provides a link to "View transaction" or "View on block explorer." On Etherscan, you can re-verify:
 
-Transaction Hash: The unique identifier for your transaction.
+   - Transaction Hash: The unique identifier for your transaction.
 
-Status: Should show "Success."
+   - Status: Should show "Success."
 
-Block: The block number in which your transaction was included.
+   - Block: The block number in which your transaction was included.
 
-From: Your wallet address.
+   - From: Your wallet address.
 
-To (Interacted With): The Aave smart contract address you verified earlier.
+   - To (Interacted With): The Aave smart contract address you verified earlier.
 
-Internal Transactions / Token Transfers: For a supply transaction, you'll likely see the ETH (e.g., 0.001 ETH) being transferred from your address to the Aave contract, and corresponding aTokens (e.g., AWETH) being minted and transferred to your address.
+   - Internal Transactions / Token Transfers: For a supply transaction, you'll likely see the ETH (e.g., 0.001 ETH) being transferred from your address to the Aave contract, and corresponding aTokens (e.g., AWETH) being minted and transferred to your address.
 
-Input Data: Etherscan will also show the decoded input data, including the function called (e.g., depositETH) and the parameters. This should match precisely what you verified in MetaMask against the official documentation.
+   - Input Data: Etherscan will also show the decoded input data, including the function called (e.g., depositETH) and the parameters. This should match precisely what you verified in MetaMask against the official documentation.
 
 Key Takeaways for Secure Transaction Practices
 This walkthrough of supplying ETH to Aave, with a deep focus on transaction verification, underscores several critical principles for navigating Web3 safely:
