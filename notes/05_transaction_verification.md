@@ -122,7 +122,8 @@ Let's break down the information presented in the MetaMask transaction request p
 
 - Nonce: MetaMask also shows a "Nonce," which is an internal transaction counter for your account. This generally increments with each transaction and doesn't usually require manual verification for standard operations unless you are an advanced user troubleshooting specific issues.
 
-Finalizing and Observing Your Verified Transaction
+### 🔗 Finalizing and Observing Your Verified Transaction
+
 Once you have meticulously performed all the verification steps above and are confident that the transaction is legitimate and will perform the intended action correctly:
 
 Click "Confirm" in the MetaMask pop-up.
