@@ -86,21 +86,21 @@ Let's break down the information presented in the MetaMask transaction request p
 
 ### 🔗 Critical Check 3: The Transaction Data (Function Parameters)
 
-The "Data" Tab: This is arguably the most important section for detailed verification. MetaMask usually has a "Data" tab or an option to view/edit the transaction data.
+- The "Data" Tab: This is arguably the most important section for detailed verification. MetaMask usually has a "Data" tab or an option to view/edit the transaction data.
 
-Raw vs. Decoded Data: The raw transaction data is a long string of hexadecimal characters (e.g., 0x474cf53d000...). This is what your wallet cryptographically signs. Fortunately, MetaMask (and block explorers like Etherscan) attempt to decode this raw data into a more human-readable format, showing the function and its parameters.
+- Raw vs. Decoded Data: The raw transaction data is a long string of hexadecimal characters (e.g., 0x474cf53d000...). This is what your wallet cryptographically signs. Fortunately, MetaMask (and block explorers like Etherscan) attempt to decode this raw data into a more human-readable format, showing the function and its parameters.
 
-Understanding Decoded Parameters: For our Aave ETH supply example, the decoded data might look like this:
+- Understanding Decoded Parameters: For our Aave ETH supply example, the decoded data might look like this:
 
-Function: depositETH
+  - Function: depositETH
 
-Param #1 (\_pool): [some address] (e.g., 0x87870ca3f3fd6335c3f4ce8392d69350b4fa4e2 - this is often the Aave pool address)
+  - Param #1 (\_pool): [some address] (e.g., 0x87870ca3f3fd6335c3f4ce8392d69350b4fa4e2 - this is often the Aave pool address)
 
-Param #2 (onBehalfOf): [your wallet address] (e.g., "small testnet" which is 0xF8CadE19B26A2b970F2DEf5eA9eCCF1bda3d1186)
+  - Param #2 (onBehalfOf): [your wallet address] (e.g., "small testnet" which is 0xF8CadE19B26A2b970F2DEf5eA9eCCF1bda3d1186)
 
-Param #3 (referralCode): 0
+  - Param #3 (referralCode): 0
 
-The Absolute Necessity: Cross-Referencing with Official Documentation:
+- The Absolute Necessity: Cross-Referencing with Official Documentation:
 
 Go back to the protocol's official documentation (e.g., docs.aave.com).
 
