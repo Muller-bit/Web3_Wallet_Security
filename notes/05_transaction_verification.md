@@ -12,9 +12,9 @@
 
 - Interacting with most DApps begins by connecting your cryptocurrency wallet. Typically, you'll find a "Connect wallet" button prominently displayed on the DApp's website. For this demonstration, we'll connect to Aave using MetaMask:
 
-Navigate to the Aave website (app.aave.com) and click the "Connect wallet" button.
+1. Navigate to the Aave website (app.aave.com) and click the "Connect wallet" button.
 
-A list of compatible wallet options will appear; select "MetaMask."
+2. A list of compatible wallet options will appear; select "MetaMask."
 
 MetaMask will prompt you with a connection request, asking for permission to connect a specific account from your wallet to the Aave site. Review the account and click "Connect."
 
