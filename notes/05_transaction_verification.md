@@ -50,7 +50,8 @@ Let's break down the information presented in the MetaMask transaction request p
 
 - Estimated Changes: MetaMask often provides an estimate of how the transaction will affect your balances (e.g., "You send -0.001 ETH" and "You receive +0.001 AWETH"). AWETH, in this case, is Aave's interest-bearing token representing your supplied ETH. While helpful, these estimates are simulations and are not foolproof. Do not rely solely on them.
 
-Critical Check 1: The Smart Contract Address ("Interacting With")
+### 🔗 Critical Check 1: The Smart Contract Address ("Interacting With")
+
 What it is: MetaMask shows the address of the smart contract your transaction is being sent to (e.g., 0xd01607c3c5eCABA394D8be377a08590149325722). This is the actual recipient of your funds and instructions on the blockchain.
 
 Why it's crucial: You must ensure you are interacting with the genuine, official smart contract of the protocol. Sending funds or authorizing operations with a malicious or incorrect contract address will almost certainly result in loss.
