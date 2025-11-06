@@ -66,13 +66,13 @@ Let's break down the information presented in the MetaMask transaction request p
 
    - Examine the contract's page on Etherscan. Look for official labels or tags. For well-known protocols like Aave, Etherscan often displays verified tags (e.g., "Aave: ETH Staking Contract" or "Aave: WrappedTokenGatewayV3"). These tags provide a strong indication of legitimacy.
 
-Official Protocol Documentation:
+2. Official Protocol Documentation:
 
-The most reliable source is the protocol's official documentation (e.g., docs.aave.com for Aave).
+   - The most reliable source is the protocol's official documentation (e.g., docs.aave.com for Aave).
 
-Search the documentation for sections like "Contract Addresses," "Deployed Contracts," or similar terms.
+   - Search the documentation for sections like "Contract Addresses," "Deployed Contracts," or similar terms.
 
-Compare the address shown in MetaMask with the official list. For our Aave example, you would look for the WrappedTokenGateway contract address and verify it matches 0xd01607c3c5eCABA394D8be377a08590149325722.
+   - Compare the address shown in MetaMask with the official list. For our Aave example, you would look for the WrappedTokenGateway contract address and verify it matches 0xd01607c3c5eCABA394D8be377a08590149325722.
 
 Google (Use with Caution): You can also try Googling the contract address. Reputable contracts are often discussed in community forums or articles. However, be wary of information from unverified sources.
 
