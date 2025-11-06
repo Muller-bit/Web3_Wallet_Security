@@ -148,7 +148,8 @@ Once you have meticulously performed all the verification steps above and are co
 
    - Input Data: Etherscan will also show the decoded input data, including the function called (e.g., depositETH) and the parameters. This should match precisely what you verified in MetaMask against the official documentation.
 
-Key Takeaways for Secure Transaction Practices
+### 🔗 Key Takeaways for Secure Transaction Practices
+
 This walkthrough of supplying ETH to Aave, with a deep focus on transaction verification, underscores several critical principles for navigating Web3 safely:
 
 Never Sign Blindly: This is the cardinal rule. Always take the time to verify.
