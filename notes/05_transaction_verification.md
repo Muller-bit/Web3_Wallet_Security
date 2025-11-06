@@ -100,19 +100,19 @@ Let's break down the information presented in the MetaMask transaction request p
 
   - Param #3 (referralCode): 0
 
-- The Absolute Necessity: Cross-Referencing with Official Documentation:
+### 🔗 - The Absolute Necessity: Cross-Referencing with Official Documentation:
 
-Go back to the protocol's official documentation (e.g., docs.aave.com).
+1. Go back to the protocol's official documentation (e.g., docs.aave.com).
 
-Find the developer documentation for the specific smart contract and function you are interacting with (e.g., the depositETH function of the WrappedTokenGatewayV3 contract).
+2. Find the developer documentation for the specific smart contract and function you are interacting with (e.g., the depositETH function of the WrappedTokenGatewayV3 contract).
 
-The documentation will describe the function's signature and what each parameter represents. For Aave's depositETH(address pool, address onBehalfOf, uint16 referralCode):
+3. The documentation will describe the function's signature and what each parameter represents. For Aave's depositETH(address pool, address onBehalfOf, uint16 referralCode):
 
-\_pool (MetaMask's Param #1): The address of the Aave liquidity pool.
+   - \_pool (MetaMask's Param #1): The address of the Aave liquidity pool.
 
-onBehalfOf (MetaMask's Param #2): The documentation will clarify that this is "The address of the user who will receive the aTokens representing the supplied tokens." This is a critical parameter. For a deposit you are making for yourself, this address MUST be your own wallet address. If this parameter shows a different, unknown address, your supplied assets (or the interest-bearing tokens representing them) could be sent to someone else. In our example, we verify this matches our "small testnet" address.
+   - onBehalfOf (MetaMask's Param #2): The documentation will clarify that this is "The address of the user who will receive the aTokens representing the supplied tokens." This is a critical parameter. For a deposit you are making for yourself, this address MUST be your own wallet address. If this parameter shows a different, unknown address, your supplied assets (or the interest-bearing tokens representing them) could be sent to someone else. In our example, we verify this matches our "small testnet" address.
 
-referralCode (MetaMask's Param #3): The documentation might state this is "Inactive, can pass 0 as placeholder" or provide other instructions. Seeing 0 here, if aligned with the docs, is correct.
+   - referralCode (MetaMask's Param #3): The documentation might state this is "Inactive, can pass 0 as placeholder" or provide other instructions. Seeing 0 here, if aligned with the docs, is correct.
 
 Supporting Check: Network Fee (Gas Cost)
 What it is: MetaMask displays the estimated network fee (gas cost) for your transaction (e.g., $1.42 - $1.86).
