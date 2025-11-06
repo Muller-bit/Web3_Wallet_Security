@@ -84,7 +84,8 @@ Let's break down the information presented in the MetaMask transaction request p
 
 - Verification: Ensure this function name aligns with the action you intend to perform. If you want to supply ETH, seeing Deposit ETH or a similar, understandable function name is expected. If it shows something unrelated or suspicious (e.g., TransferAllTokens), it's a major red flag.
 
-Critical Check 3: The Transaction Data (Function Parameters)
+### 🔗 Critical Check 3: The Transaction Data (Function Parameters)
+
 The "Data" Tab: This is arguably the most important section for detailed verification. MetaMask usually has a "Data" tab or an option to view/edit the transaction data.
 
 Raw vs. Decoded Data: The raw transaction data is a long string of hexadecimal characters (e.g., 0x474cf53d000...). This is what your wallet cryptographically signs. Fortunately, MetaMask (and block explorers like Etherscan) attempt to decode this raw data into a more human-readable format, showing the function and its parameters.
